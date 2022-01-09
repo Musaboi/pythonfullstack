@@ -1,0 +1,21 @@
+In terminal:
+cd-change directory => helps to move from one directory(folder) to another
+dir - shows what file I have in the directory I am in.
+ls - same as dir
+rm - deletes a file
+mkdir - makes a directory
+code - helps to make a code file
+In python:
+print()-help to print or show up something
+input()-let the user write something
+if/else/elif statements - helps to make condition
+while/for loops - helps to make loops
+function (def) - helps to make a miniscript which can used again by calling a specific word
+importing modules - helps to more functions
+* - helps to concatenate a variable
+More:
+Using git
+Using pycharm
+pip install - helps to download a module
+
+
