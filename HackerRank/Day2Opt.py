@@ -19,7 +19,8 @@ meal_cost = float(input())
 tip_percent = int(input())
 tax_percent = int(input())
 def solve(meal_cost,tip_percent, tax_percent):
-    print(int(meal_cost+tip_percent/100*meal_cost+tax_percent/100*meal_cost))
+    total_cost = meal_cost+tip_percent/100*meal_cost+tax_percent/100*meal_cost
+    print(round(total_cost))
 
 solve(meal_cost,tip_percent,tax_percent)
 
